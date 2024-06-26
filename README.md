@@ -2,6 +2,7 @@
    Apaixonado por tecnologia, educação e anbicioso por mudar vidas através da programação❤️
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-has&show_icons=true&theme=highcontrast)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-has&theme=midnight-purple&layout=donut&hide=jupyter%20notebook"/> 
 
 ### Tecnologias da minha Rotina:
 <div style="display: inline_block"><br/> 
